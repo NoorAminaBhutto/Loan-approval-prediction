@@ -20,6 +20,6 @@ To predict if a loan will be Approved or Rejected based on applicant details.
 
 ### Status
 - Phase 1-7: Completed in Google Colab
-- Phase 8: Deployed on Streamlit Cloud 
+- Phase 8: Deployed on Streamlit Cloud https://loan-approval-prediction-kzenw4piqhfufuncxfa7ky.streamlit.app/
 
 **Intern:** Noor Amina Bhutto
